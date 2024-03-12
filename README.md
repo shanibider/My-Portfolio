@@ -21,7 +21,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 #### API Nodejs Express:
 #### ✅ 8. [API Nodejs Blog](https://api-node-js-blog.onrender.com/)
 
-#### ✅ 9. [PERN PostgreSQL Flag quiz](https://postgresql-flag-quiz.onrender.com/) (Flag emojis are only visible in Firefox browsers)
+#### ✅ 9. [PERN PostgreSQL Flag quiz](https://postgresql-flag-quiz.onrender.com/) (For Windows users- Flag emojis are only visible in Firefox browsers)
 #### ✅ 10. [PERN PostgreSQL World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
 #### ✅ 11. [REST API Node Weather Website](https://fullstack-weather-website-public-api.onrender.com/)
 #### ✅ 12. [API Secrets Generator](https://api-secrets-generator.onrender.com/)
