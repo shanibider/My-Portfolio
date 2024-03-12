@@ -43,13 +43,14 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] <img height=200px align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c">
 <br>   
 
-### Project 6:  -
+### Project 6:  PERN PostreSQL Family Travel Tracker -
 - [ ] **Description:** web application developed using the PERN (PostgreSQL, Express, React, Node.js) stack. Enables users to track their family travel destination.
 - [ ] **Features:** Record the destination of your trips, for each family member, and visualize your travel data with an intuitive dashboard interface.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PERN-PostreSQL-Family-Travel-Tracker)
 - [ ] **Live Demo:** [Explore the live website](https://family-travel-tracker-k8l6.onrender.com/)
-- [ ] <img height=200px align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c">
+- [ ] <img height=200px align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/f66f38a1-65f9-4bd6-a6e7-2faf7ba3dfd6">
 <br>  
+
 
 ### Project 7: REST API Node Weather Website -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
