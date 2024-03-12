@@ -4,19 +4,29 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 
 ## Websites Developed 🔗 -
-#### ✅ [ANASTACIA MERN E-COMMERCE WEBSITE](https://anastacia-mern-ecommerce-website.onrender.com/)
-#### ✅ [PERN PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
-#### ✅ [My Portfolio](https://shanibider.netlify.app/)
-#### ✅ [PERN PostgreSQL Blog Web Application](https://nodejs-blog-web-application.onrender.com/)
-#### ✅ [MyWishList E-commerce React Website ](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
-#### ✅ [Wallety App Preview Website ](https://shanibider.github.io/Wallety-App-Preview-Website/)
+#### PERN (PostgreSQL, Express, React, Nodejs):
+#### ✅ 1. [ANASTACIA MERN E-COMMERCE WEBSITE](https://anastacia-mern-ecommerce-website.onrender.com/)
+#### ✅ 2. [PERN PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
+#### ✅ 3. [My Portfolio](https://shanibider.netlify.app/)
+#### ✅ 4. [PERN PostgreSQL Blog Web Application](https://nodejs-blog-web-application.onrender.com/)
 
-#### ✅ [PERN PostgreSQL Flag quiz](https://postgresql-flag-quiz.onrender.com/) [work best in FireFox]
-#### ✅ [PERN PostgreSQL World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
-#### ✅ [REST API Node Weather Website](https://fullstack-weather-website-public-api.onrender.com/)
-#### ✅ [API Secrets Generator](https://api-secrets-generator.onrender.com/)
-#### ✅ [API Authentication](https://api-authentication-qpgd.onrender.com/)
-#### ✅ [Frontend React Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
+#### React:
+#### ✅ 5. [MyWishList E-commerce React Website ](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
+#### ✅ 6. [Frontend React Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
+
+#### Static Website:
+#### ✅ 7. [Wallety App Preview Website](https://shanibider.github.io/Wallety-App-Preview-Website/)
+
+#### API Nodejs Express:
+#### ✅ 8. [API Nodejs Blog](https://api-node-js-blog.onrender.com/)
+
+#### ✅ 9. [PERN PostgreSQL Flag quiz](https://postgresql-flag-quiz.onrender.com/) (work best in FireFox)
+#### ✅ 10. [PERN PostgreSQL World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
+#### ✅ 11. [REST API Node Weather Website](https://fullstack-weather-website-public-api.onrender.com/)
+#### ✅ 12. [API Secrets Generator](https://api-secrets-generator.onrender.com/)
+#### ✅ 13. [API Authentication](https://api-authentication-qpgd.onrender.com/)
+
+
 
 
 ## Websites Showcase 🎯 -
