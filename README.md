@@ -6,25 +6,25 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ## Websites Developed 🔗 -
 #### PERN (PostgreSQL, Express, React, Nodejs) + CRUD (PostgreSQL, Express, EJS, Nodejs):
-#### ✅ 1. [ANASTACIA MERN E-COMMERCE WEBSITE](https://anastacia-mern-ecommerce-website.onrender.com/)
-#### ✅ 2. [CRUD PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
+#### ✅ 1. [ANASTACIA MERN E-COMMERCE](https://anastacia-mern-ecommerce-website.onrender.com/)
+#### ✅ 2. [PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
 #### ✅ 3. [My Portfolio](https://shanibider.netlify.app/)
-#### ✅ 4. [CRUD PostgreSQL Blog Web Application](https://nodejs-blog-web-application.onrender.com/)
+#### ✅ 4. [PostgreSQL Blog](https://nodejs-blog-web-application.onrender.com/)
 
 #### React:
-#### ✅ 5. [MyWishList E-commerce React Website ](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
-#### ✅ 6. [Frontend React Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
+#### ✅ 5. [MyWishList E-commerce](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
+#### ✅ 6. [Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
 
 #### Static Website:
-#### ✅ 7. [Wallety App Preview Website](https://shanibider.github.io/Wallety-App-Preview-Website/)
+#### ✅ 7. [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
 
 #### API Nodejs Express:
-#### ✅ 8. [API Nodejs Blog](https://api-node-js-blog.onrender.com/)
+#### ✅ 8. [Nodejs Blog](https://api-node-js-blog.onrender.com/)
 
-#### ✅ 9. [Nodejs PostgreSQL Flag quiz](https://postgresql-flag-quiz.onrender.com/) (For Windows users- Flag emojis are only visible in Firefox browsers)
-#### ✅ 10. [Nodejs PostgreSQL World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
-#### ✅ 11. [REST API Nodejs Weather Website](https://fullstack-weather-website-public-api.onrender.com/)
-#### ✅ 12. [API Secrets Generator](https://api-secrets-generator.onrender.com/)
+#### ✅ 9. [Flag quiz](https://postgresql-flag-quiz.onrender.com/) (For Windows users- Flag emojis are only visible in Firefox browsers)
+#### ✅ 10. [World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
+#### ✅ 11. [Weather Checker](https://fullstack-weather-website-public-api.onrender.com/)
+#### ✅ 12. [Secrets Generator](https://api-secrets-generator.onrender.com/)
 #### ✅ 13. [API Authentication](https://api-authentication-qpgd.onrender.com/)
 
 
