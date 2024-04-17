@@ -1,45 +1,42 @@
-# My Web Development Portfolio 💼
+# My Web Development Portfolio 💻
 
 Welcome to my web development portfolio! Below is a showcase of websites I've developed, demonstrating my skills and expertise in full-stack development. Please be patient 😊; some of these websites may take up to one minute to render after you click on them due to the deployment process. 🕑
 
 ## Websites Developed 🔗
 
 ### PERN (PostgreSQL, Express, React, Node.js) + CRUD (PostgreSQL, Express, EJS, Node.js):
-
-#### ✅ 1. [ANASTACIA MERN E-COMMERCE](https://anastacia-mern-ecommerce-website.onrender.com/)
-#### ✅ 2. [PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
-#### ✅ 3. [My Portfolio](https://shanibider.netlify.app/)
-#### ✅ 4. [PostgreSQL Blog](https://nodejs-blog-web-application.onrender.com/)
-#### ✅ 5. [PostgreSQL Family Travel Tracker](https://family-travel-tracker-k8l6.onrender.com/)
+#### ✔  [ANASTACIA MERN E-COMMERCE](https://anastacia-mern-ecommerce-website.onrender.com/)
+#### ✔  [PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
+#### ✔  [My Portfolio](https://shanibider.netlify.app/)
+#### ✔  [PostgreSQL Blog](https://nodejs-blog-web-application.onrender.com/)
+#### ✔  [PostgreSQL Family Travel Tracker](https://family-travel-tracker-k8l6.onrender.com/)
 
 ### React:
-
-#### ✅ 6. [MyWishList E-commerce](https://wish-list-ecommerce.vercel.app/)
-#### ✅ 7. [Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
-
-### Static Website:
-
-#### ✅ 8. [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
-#### ✅ 9. [Basic Bootstrap Website](https://shanibider.github.io/Frontend-Health-Consulting-Website/)
+#### ✔  [MyWishList E-commerce](https://wish-list-ecommerce.vercel.app/)
+#### ✔  [Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
 
 ### Node.js Express:
+#### ✔  [Node.js Blog](https://api-node-js-blog.onrender.com/)
+#### ✔  [Weather Checker](https://fullstack-weather-website-public-api.onrender.com/)
+#### ✔  [Flag quiz](https://postgresql-flag-quiz.onrender.com/) (For Windows users- Flag emojis are only visible in Firefox browsers)
+#### ✔  [World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
+#### ✔  [Mailchimp API Email Signup](https://nodejs-express-mailchimp-api-signup.onrender.com/)
+#### ✔  [Secrets Generator](https://api-secrets-generator.onrender.com/)
+#### ✔  [Random Activity Generator](https://random-activity-generator-e0hw.onrender.com/)
+#### ✔  [Api Taco Recipes](https://api-taco-recipes.onrender.com/)
 
-#### ✅ 10. [Node.js Blog](https://api-node-js-blog.onrender.com/)
-#### ✅ 11. [Weather Checker](https://fullstack-weather-website-public-api.onrender.com/)
-#### ✅ 12. [Flag quiz](https://postgresql-flag-quiz.onrender.com/) (For Windows users- Flag emojis are only visible in Firefox browsers)
-#### ✅ 13. [World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
-#### ✅ 14. [Mailchimp API Email Signup](https://nodejs-express-mailchimp-api-signup.onrender.com/)
-#### ✅ 15. [Secrets Generator](https://api-secrets-generator.onrender.com/)
-#### ✅ 16. [API Authentication](https://api-authentication-qpgd.onrender.com/)
-#### ✅ 17. [Random Activity Generator](https://random-activity-generator-e0hw.onrender.com/)
-#### ✅ 18. [Api Taco Recipes](https://api-taco-recipes.onrender.com/)
+### Static Website:
+#### ✔  [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
+#### ✔  [Basic Bootstrap Website](https://shanibider.github.io/Frontend-Health-Consulting-Website/)
+#### ✔  [Basic Bootstrap Website](https://shanibider.github.io/Frontend-Health-Consulting-Website/) 
+#### ✔  [HTML Only Online Resume](https://shanibider.github.io/Online-resume/) 
+#### ✔  [My Personal Website](https://shanibider.github.io/Frontend-My-site/) 
 
-### Frontend:
 
-#### ✅ 19. [Basic Bootstrap Website](https://shanibider.github.io/Frontend-Health-Consulting-Website/) 
-#### ✅ 20. [HTML Only Online Resume](https://shanibider.github.io/Online-resume/) 
-#### ✅ 21. [My Personal Website](https://shanibider.github.io/Frontend-My-site/) 
-
+<br>
+ 
+---
+<br>
 
 ## Websites Showcase 🎯
 
@@ -103,11 +100,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/6cc788c9-1bff-4c0b-9807-fd76082cef5e">
 <br>
 
-### Project 10:  API Authentication -
-- [ ] **Description:** My personal portfolio website showcasing my projects and skills.
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/The-Complete-2024-Web-Development-Bootcamp)
-- [ ] **Live Demo:** [Explore the live website](https://api-authentication-qpgd.onrender.com/)
-- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/3ca4dda8-87f8-4fa4-ae69-0fdf87a55ead">
+
 
 
 
@@ -115,12 +108,19 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 <br>
 
-## Installation Instructions
+## Installation Instructions 🛠️
 - Clone the repository: `git clone https://github.com/yourusername/project-name.git`
 - Install dependencies: `npm install`
 - Follow the setup instructions provided in each project's README file for detailed installation and usage.
 
-## Contact Information
-- Feel free to reach out to me via email at [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
-- Connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-- Visit my Portfolio - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
+
+## 📫 Connect with me 😊
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
+
+<footer>
+<p style="float:left; width: 20%;">
+Copyright © Shani Bider
+</p>
+</footer>
