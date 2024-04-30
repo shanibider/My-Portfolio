@@ -1,6 +1,7 @@
 # My Web Development Portfolio 💻
 
-Welcome to my web development portfolio! Below is a showcase of websites I've developed, demonstrating my skills and expertise in full-stack development. Please be patient 😊; some of these websites may take up to one minute to render after you click on them due to the deployment process. 🕑
+Welcome to my web development portfolio! Below is a showcase of websites I've developed, demonstrating my skills and expertise in full-stack development. <br>
+> Please be patient 😊; Some of these websites may take up to one minute to render after you click on them due to the deployment process. 🕑
 
 ## Websites Developed 🔗
 
@@ -27,10 +28,18 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ### Static Website:
 #### ✔  [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
-#### ✔  [Basic Bootstrap Website](https://shanibider.github.io/Frontend-Health-Consulting-Website/)
-#### ✔  [Basic Bootstrap Website](https://shanibider.github.io/Frontend-Health-Consulting-Website/) 
+#### ✔  [Basic Bootstrap Website](https://shanibider.github.io/HTML-CSS-Fitness-Website/)
 #### ✔  [HTML Only Online Resume](https://shanibider.github.io/Online-resume/) 
 #### ✔  [My Personal Website](https://shanibider.github.io/Frontend-My-site/) 
+
+### Udemy Websites I've developed:
+- 🎵 [Band Generator](https://band-generator-vbim.onrender.com/)
+- 🎲 [Random Activity Generator](https://random-activity-generator-e0hw.onrender.com/) 
+- 🌮 [API Taco Recipes](https://api-taco-recipes.onrender.com/) 
+- 🐕 [Tindog](https://the-complete-2024-web-development.onrender.com/)
+- 🎯 [Simon Game](https://simon-game-dzc6.onrender.com/)
+- 🥁 [Drum Kit](https://drum-kit-i2ts.onrender.com/)
+- 🎲 [Dice Challenge](https://dicee-challenge.onrender.com/)
 
 
 <br>
