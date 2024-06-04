@@ -71,54 +71,64 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] ![PERN PostgreSQL Todo List](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/7b53e556-4e90-478b-a31f-7ab9b77b9e70)
 <br>
 
-
-### Project 2: React To-Do List
+### Project 3: React To-Do List
 - [ ] **Description:** A to-do list application built using React and Vite for fast development and optimized performance.
 - [ ] **Features:** Task creation, editing, and deletion.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-ToDo-List)
 - [ ] ![Todo 3](https://github.com/shanibider/My-Portfolio/assets/72359805/33d2d1d9-2ff9-47a2-971c-ac960d593b22)
 <br>
 
-### Project 3: React Notes
+### Project 4: React Notes
 - [ ] **Description:** A note-taking application created with React and Vite to manage personal notes efficiently.
 - [ ] **Features:** Note creation, editing, and deletion.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Notes)
 - [ ] ![Keeper-App](https://github.com/shanibider/My-Portfolio/assets/72359805/4d999856-de7c-48f9-9ac6-03599a593a5f)
 <br>
 
-### Project 4: React Scores
+### Project 5: React Scores
 - [ ] **Description:** A score management application featuring forms, tables, and logical sorting, built with React.
 - [ ] **Features:** Score entry, sorting, and detailed score management.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Scores)
 - [ ] **Live Demo:** [Explore the live scores app](https://react-scores.onrender.com/)
 - [ ] ![react-scores](https://github.com/shanibider/My-Portfolio/assets/72359805/c8450749-e206-4641-9fe8-a1b400c9d6d7)
-
 <br>
 
-### Project 5: Full-Stack MERN Employee Database Application 
+### Project 6: Full-Stack MERN Employee Database Application 
 - [ ] **Description:** An employee database management system developed using the MERN stack (MongoDB, Express.js, React, Node.js) and Vite.js.
 - [ ] **Features:** Employee record creation, editing, and deletion functionality, using MongoDB Atlas for database management.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application)
 - [ ] ![mongodb](https://github.com/shanibider/My-Portfolio/assets/72359805/401ce10e-9cce-4b6f-8735-2191252f8ded)
 <br>
 
-
-
-
-### Project 3: Portfolio Website
-- [ ] **Description:** My personal portfolio website showcasing my projects and skills.
-- [ ] **Features:** 
-- [ ] **Live Demo:** [Explore the live website](https://shanibider.onrender.com/)
-- [ ] ![Portfolio Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/3d3ce080-c823-45e2-8815-d7094e8becb0)
-
-### Project 4: PERN PostgreSQL Blog Web Application -
+### Project 7: PERN PostgreSQL Blog Web Application -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **Features:** 
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PERN-PostgreSQL-Blog-Web-Application)
 - [ ] **Live Demo:** [Explore the live website](https://nodejs-blog-web-application.onrender.com/)
 - [ ] ![PERN PostgreSQL Blog Web Application](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/d2700977-fb01-4ea5-8234-3ece33b6b205)
+<br>
 
-### Project 5:  MyWishList E-commerce React Website -
+### Project 8: Portfolio Website
+- [ ] **Description:** My personal portfolio website showcasing my projects and skills.
+- [ ] **Features:** 
+- [ ] **Live Demo:** [Explore the live website](https://shanibider.onrender.com/)
+- [ ] ![Portfolio Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/3d3ce080-c823-45e2-8815-d7094e8becb0)
+<br>
+
+### Project 9:  PERN PostreSQL Family Travel Tracker -
+- [ ] **Description:** web application developed using the PERN (PostgreSQL, Express, React, Node.js) stack. Enables users to track their family travel destination.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PERN-PostreSQL-Family-Travel-Tracker)
+- [ ] **Live Demo:** [Explore the live website](https://family-travel-tracker-k8l6.onrender.com/)
+- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/f66f38a1-65f9-4bd6-a6e7-2faf7ba3dfd6">
+<br>
+
+### Project 10: REST API Node Weather Website -
+- [ ] **Description:** My personal portfolio website showcasing my projects and skills.
+- [ ] **Live Demo:** [Explore the live website](https://fullstack-weather-website-public-api.onrender.com/)
+- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/05c018ca-ec88-4fc0-b5fb-b7a7a08f4b2d">
+<br>
+
+### Project 11:  MyWishList E-commerce React Website -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **Features:** Responsive design, project showcase, contact form.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
@@ -126,51 +136,18 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] ![MyWishList E-commerce React Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c)
 <br>
 
-### Project 6:  PERN PostreSQL Family Travel Tracker -
-- [ ] **Description:** web application developed using the PERN (PostgreSQL, Express, React, Node.js) stack. Enables users to track their family travel destination.
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PERN-PostreSQL-Family-Travel-Tracker)
-- [ ] **Live Demo:** [Explore the live website](https://family-travel-tracker-k8l6.onrender.com/)
-- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/f66f38a1-65f9-4bd6-a6e7-2faf7ba3dfd6">
-<br>
-
-### Project 7: REST API Node Weather Website -
-- [ ] **Description:** My personal portfolio website showcasing my projects and skills.
-- [ ] **Live Demo:** [Explore the live website](https://fullstack-weather-website-public-api.onrender.com/)
-- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/05c018ca-ec88-4fc0-b5fb-b7a7a08f4b2d">
-
-### Project 8: Wallety App Preview Website 
+### Project 12: Wallety App Preview Website 
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Wallety-App-Preview-Website)
 - [ ] **Live Demo:** [Explore the live website](https://shanibider.github.io/Wallety-App-Preview-Website/)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/b444f7d1-8db2-44e8-82c5-86b6e62fd6be">
 <br>
 
-### Project 9:  API Secrets Generator -
+### Project 13:  API Secrets Generator -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/The-Complete-2024-Web-Development-Bootcamp)
 - [ ] **Live Demo:** [Explore the live website](https://api-secrets-generator.onrender.com/)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/6cc788c9-1bff-4c0b-9807-fd76082cef5e">
-<br>
-
-
-
-
-
-
-
-### Project 6: PostgreSQL Flag Quiz
-- [ ] **Description:** A quiz application to identify flags, built with Node.js, Express, JavaScript, and EJS, using PostgreSQL for database management.
-- [ ] **Features:** Practice PostgreSQL for data storage, EJS templating for dynamic content rendering, and form creation for user input handling.
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PostgreSQL-Flag-Quiz)
-- [ ] **Live Demo:** [Explore the live flag quiz](https://postgresql-flag-quiz.onrender.com/)
-- [ ] ![22](https://github.com/shanibider/My-Portfolio/assets/72359805/c911a04f-3797-4e40-857e-2bc4d47f0c0a)
-<br>
-
-### Project 7: World Capital Quiz
-- [ ] **Description:** A quiz application to test world capitals, created using Node.js, Express, JavaScript, and EJS.
-- [ ] **Features:** Practice PostgreSQL for data storage, EJS templating for dynamic content rendering, and form creation for user input handling.
-- [ ] **Live Demo:** [Explore the live world capital quiz](https://world-capital-quiz-srib.onrender.com/)
-- [ ] ![21](https://github.com/shanibider/My-Portfolio/assets/72359805/c057a4c2-a5dc-4c5a-8509-56205079e027)
 <br>
 
 
