@@ -5,14 +5,17 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ## Websites Developed 🔗
 
-### PERN (PostgreSQL, Express, React, Node.js) + CRUD (PostgreSQL, Express, EJS, Node.js):
+### PERN (PostgreSQL, Express, React, Node.js) + CRUD (PostgreSQL, Express, Node.js):
 #### ✔  [ANASTACIA MERN E-COMMERCE](https://anastacia-mern-ecommerce-website.onrender.com/)
 #### ✔  [PostgreSQL Todo list](https://pern-postgresql-todo-list-1.onrender.com/)
-#### ✔  [My Portfolio](https://shanibider.netlify.app/)
 #### ✔  [PostgreSQL Blog](https://nodejs-blog-web-application.onrender.com/)
 #### ✔  [PostgreSQL Family Travel Tracker](https://family-travel-tracker-k8l6.onrender.com/)
 
 ### React:
+#### ✔  [React To-Do](https://github.com/shanibider/React-ToDo-List)
+#### ✔  [React Notes](https://github.com/shanibider/React-Notes)
+#### ✔  [React Scores Table](https://react-scores.onrender.com/)
+#### ✔  [React Investment Calculator](https://react-investment-calculator-emnn.onrender.com/)
 #### ✔  [MyWishList E-commerce](https://wish-list-ecommerce.vercel.app/)
 #### ✔  [Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
 
@@ -27,10 +30,15 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 #### ✔  [Api Taco Recipes](https://api-taco-recipes.onrender.com/)
 
 ### Static Website:
+#### ✔  [My Portfolio](https://shanibider.onrender.com/)
 #### ✔  [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
 #### ✔  [Basic Bootstrap Website](https://shanibider.github.io/HTML-CSS-Fitness-Website/)
 #### ✔  [HTML Only Online Resume](https://shanibider.github.io/Online-resume/) 
 #### ✔  [My Personal Website](https://shanibider.github.io/Frontend-My-site/) 
+
+### Android App:
+#### ✔ [Wallety - Android Expense Tracker App](https://github.com/shanibider/Wallety-Expense-Tracker-Android-App)
+#### ✔ [My Recipe Book Android App](https://github.com/shanibider/Recipe-Book-Android-App)
 
 ### Udemy Websites I've developed:
 - 🎵 [Band Generator](https://band-generator-vbim.onrender.com/)
@@ -41,11 +49,9 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - 🥁 [Drum Kit](https://drum-kit-i2ts.onrender.com/)
 - 🎲 [Dice Challenge](https://dicee-challenge.onrender.com/)
 
-
-<br>
  
 ---
-<br>
+
 
 ## Websites Showcase 🎯
 
@@ -55,6 +61,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE-WEBSITE)
 - [ ] **Live Demo:** [Explore the live website](https://anastacia-mern-ecommerce-website.onrender.com/)
 - [ ] ![ANASTACIA MERN E-COMMERCE](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/a565d810-cec9-4aba-ae11-eeae2d87cba6)
+<br>
 
 ### Project 2: PERN PostgreSQL Todo List-
 - [ ] **Description:** A blogging platform developed with Django framework (Python).
@@ -62,11 +69,46 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PERN-PostgreSQL-Todo-List)
 - [ ] **Live Demo:** [Explore the live website](https://pern-postgresql-todo-list-1.onrender.com/)
 - [ ] ![PERN PostgreSQL Todo List](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/7b53e556-4e90-478b-a31f-7ab9b77b9e70)
+<br>
+
+
+### Project 2: React To-Do List
+- [ ] **Description:** A to-do list application built using React and Vite for fast development and optimized performance.
+- [ ] **Features:** Task creation, editing, and deletion.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-ToDo-List)
+- [ ] ![Todo 3](https://github.com/shanibider/My-Portfolio/assets/72359805/33d2d1d9-2ff9-47a2-971c-ac960d593b22)
+<br>
+
+### Project 3: React Notes
+- [ ] **Description:** A note-taking application created with React and Vite to manage personal notes efficiently.
+- [ ] **Features:** Note creation, editing, and deletion.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Notes)
+- [ ] ![Keeper-App](https://github.com/shanibider/My-Portfolio/assets/72359805/4d999856-de7c-48f9-9ac6-03599a593a5f)
+<br>
+
+### Project 4: React Scores
+- [ ] **Description:** A score management application featuring forms, tables, and logical sorting, built with React.
+- [ ] **Features:** Score entry, sorting, and detailed score management.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Scores)
+- [ ] **Live Demo:** [Explore the live scores app](https://react-scores.onrender.com/)
+- [ ] ![react-scores](https://github.com/shanibider/My-Portfolio/assets/72359805/c8450749-e206-4641-9fe8-a1b400c9d6d7)
+
+<br>
+
+### Project 5: Full-Stack MERN Employee Database Application 
+- [ ] **Description:** An employee database management system developed using the MERN stack (MongoDB, Express.js, React, Node.js) and Vite.js.
+- [ ] **Features:** Employee record creation, editing, and deletion functionality, using MongoDB Atlas for database management.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application)
+- [ ] ![mongodb](https://github.com/shanibider/My-Portfolio/assets/72359805/401ce10e-9cce-4b6f-8735-2191252f8ded)
+<br>
+
+
+
 
 ### Project 3: Portfolio Website
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **Features:** 
-- [ ] **Live Demo:** [Explore the live website](https://shanibider.netlify.app/)
+- [ ] **Live Demo:** [Explore the live website](https://shanibider.onrender.com/)
 - [ ] ![Portfolio Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/3d3ce080-c823-45e2-8815-d7094e8becb0)
 
 ### Project 4: PERN PostgreSQL Blog Web Application -
@@ -94,12 +136,13 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 ### Project 7: REST API Node Weather Website -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **Live Demo:** [Explore the live website](https://fullstack-weather-website-public-api.onrender.com/)
+- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/05c018ca-ec88-4fc0-b5fb-b7a7a08f4b2d">
 
 ### Project 8: Wallety App Preview Website 
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Wallety-App-Preview-Website)
 - [ ] **Live Demo:** [Explore the live website](https://shanibider.github.io/Wallety-App-Preview-Website/)
-- [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/05c018ca-ec88-4fc0-b5fb-b7a7a08f4b2d">
+- [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/b444f7d1-8db2-44e8-82c5-86b6e62fd6be">
 <br>
 
 ### Project 9:  API Secrets Generator -
@@ -111,6 +154,24 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 
 
+
+
+
+
+### Project 6: PostgreSQL Flag Quiz
+- [ ] **Description:** A quiz application to identify flags, built with Node.js, Express, JavaScript, and EJS, using PostgreSQL for database management.
+- [ ] **Features:** Practice PostgreSQL for data storage, EJS templating for dynamic content rendering, and form creation for user input handling.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PostgreSQL-Flag-Quiz)
+- [ ] **Live Demo:** [Explore the live flag quiz](https://postgresql-flag-quiz.onrender.com/)
+- [ ] ![22](https://github.com/shanibider/My-Portfolio/assets/72359805/c911a04f-3797-4e40-857e-2bc4d47f0c0a)
+<br>
+
+### Project 7: World Capital Quiz
+- [ ] **Description:** A quiz application to test world capitals, created using Node.js, Express, JavaScript, and EJS.
+- [ ] **Features:** Practice PostgreSQL for data storage, EJS templating for dynamic content rendering, and form creation for user input handling.
+- [ ] **Live Demo:** [Explore the live world capital quiz](https://world-capital-quiz-srib.onrender.com/)
+- [ ] ![21](https://github.com/shanibider/My-Portfolio/assets/72359805/c057a4c2-a5dc-4c5a-8509-56205079e027)
+<br>
 
 
 
