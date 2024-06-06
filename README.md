@@ -178,6 +178,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 ### Project 14: API Node Weather Checker -
 - [ ] **Description:** A weather checking application developed using Node.js and Express, integrating with a public weather API.
 - [ ] **Features:** Location-based weather information, API integration, responsive design.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Weather-Checker-incl.-UI)
 - [ ] **Live Demo:** [Explore the live website](https://fullstack-weather-website-public-api.onrender.com/)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/05c018ca-ec88-4fc0-b5fb-b7a7a08f4b2d">
 <br>
