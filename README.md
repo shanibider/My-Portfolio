@@ -187,7 +187,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ### Project 15:  API Secrets Generator -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/The-Complete-2024-Web-Development-Bootcamp)
+- [ ] **GitHub Repository:** [Link]()
 - [ ] **Live Demo:** [Explore the live website](https://api-secrets-generator.onrender.com/)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/6cc788c9-1bff-4c0b-9807-fd76082cef5e">
 <br>
