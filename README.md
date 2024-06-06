@@ -84,7 +84,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ### Project : PostgreSQL Blog -
 - [ ] **Description:** A blogging platform developed using PostgreSQL, Express, Node.js, and EJS templating.
-- [ ] **Features:** post creation/editing, comments, category filtering.
+- [ ] **Features:** post creation/editing, deleting. Client-Server architecture.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/PERN-PostgreSQL-Blog-Web-Application)
 - [ ] **Live Demo:** [Explore the live website](https://nodejs-blog-web-application.onrender.com/)
 - [ ] ![PERN PostgreSQL Blog Web Application](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/d2700977-fb01-4ea5-8234-3ece33b6b205)
@@ -192,16 +192,27 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] <img align="center" src="https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/6cc788c9-1bff-4c0b-9807-fd76082cef5e">
 <br>
 
+
+### Project 18: Node.js Blog web Application -
+- [ ] **Description:** A blogging platform that runs two servers synchronously, developed using Express, Node.js, and EJS templating.
+- [ ] **Features:** post creation/editing, deleting. Client-Server architecture.
+- [ ] **Features:** App overview, feature descriptions, and download links.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Node.js-Blog)
+- [ ] **Live Demo:** [Explore the live website](https://api-node-js-blog.onrender.com/)
+- [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/bf7ed2fe-c994-4478-9523-a277ee4ff9b1">
+<br>
+
+
 ---
 
-### Project 16: Portfolio Website -
+### Project 17: Portfolio Website -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills, using HTML, and CSS.
 - [ ] **Features:** Responsive design, project showcase, contact form.
 - [ ] **Live Demo:** [Explore the live website](https://shanibider.onrender.com/)
 - [ ] ![Portfolio Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/3d3ce080-c823-45e2-8815-d7094e8becb0)
 <br>
 
-### Project 17: Wallety App Preview Website -
+### Project 18: Wallety App Preview Website -
 - [ ] **Description:** A static preview website for the Wallety Android app, showcasing its features and functionalities.
 - [ ] **Features:** App overview, feature descriptions, and download links.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Wallety-App-Preview-Website)
