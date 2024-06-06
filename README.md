@@ -170,6 +170,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 ### Project 13: Mailchimp API Email Signup -
 - [ ] **Description:** A Node.js application integrating with the Mailchimp API to handle email subscriptions.
 - [ ] **Features:** Subscription form, email validation, Mailchimp API integration.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Mailchimp-Signup)
 - [ ] **Live Demo:** [Explore the live website](https://nodejs-express-mailchimp-api-signup.onrender.com/)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/f48de9d3-8253-46e2-9f6c-2b2f3b9aa3c8">
 - [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/bca47ced-a538-4fd6-b512-d1ffaa18af5e">
