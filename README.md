@@ -14,7 +14,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 #### ✔  [Flag quiz](https://postgresql-flag-quiz.onrender.com/) 
 ###### (Flag emojis only visible in Firefox browsers, for Windows users)
 #### ✔  [World Capital Quiz](https://world-capital-quiz-srib.onrender.com/)
-#### ✔  [Multi Level Authentication](https://github.com/shanibider/Node.js-Multi-Level-Authentication)
+#### ✔  [Multi Level Authentication](https://authentication-lv-1.onrender.com/)
 
 ### React:
 #### ✔  [React To-Do List](https://github.com/shanibider/React-ToDo-List)
@@ -114,12 +114,13 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 <br>
 
 ### Project 7: Multi-Level Authentication
-- [ ] **Description:** A comprehensive multi-level authentication system developed using Node.js and Express.js.
+- [ ] **Description:** A comprehensive multi-level authentication system developed using PostgreSQL, Node.js, Express.js, pgAdmin for local data management, and TablePlus for production data management.
 - [ ] **Features:** 
-  1. Basic Authentication
-  2. Hashing Authentication
-  3. Google OAuth 2.0 Authentication using Passport.js and PostgreSQL
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Node.js-Multi-Level-Authentication)
+  1. Basic Authentication.
+  2. Hashing and Session Authentication, using bcryptjs.
+  3. Google OAuth 2.0 Authentication using Passport.js
+- [ ] **Live Demo:** [Explore the live website](https://authentication-lv-1.onrender.com/)
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Multi-Level-Authentication/tree/master)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/505aba55-a469-4516-a05b-f7686308b73d">
 <br>
 
