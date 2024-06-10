@@ -159,8 +159,8 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 <br>
 
 ### Project 12:  MyWishList E-commerce React Website -
-- [ ] **Description:** An e-commerce platform built using React.
-- [ ] **Features:** Product catalog, shopping cart, featuring advanced routing (Routes, Route), state management (useState), a component-based architecture.
+- [ ] **Description:** An e-commerce platform built using React, with a focus on `React Context API`, and other React-based architecture, such as `Hooks, advanced Router (Link, useNavigate), and component-based architecture`.
+- [ ] **Features:** Product catalog, shopping cart, allowing users to update quantities and proceed to checkout, and contact Page. 
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Aesthetic-Ecommerce)
 - [ ] **Live Demo:** [Explore the live website](https://frontend-react-aesthetic-ecommerce.vercel.app/)
 - [ ] ![MyWishList E-commerce React Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c)
