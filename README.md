@@ -59,7 +59,13 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 ## Websites Showcase 🎯
 
 ### Project 1: ANASTACIA MERN E-COMMERCE WEBSITE -
-- [ ] **Description:** An e-commerce platform built using MERN stack (MongoDB, Express.js, React.js, Node.js).
+- [ ] **Description:** An e-commerce platform built using `MERN stack (MongoDB, Express.js, React.js, Node.js), PayPal API, Firebase` for user management, `TablePlus, and pgAdmin4` for database management, and `render` for deployment,  with a focus on
+* `Redux State Management`
+* other React-based architecture, such as `Hooks (useState, useReducer, useEffect)`
+* advanced Routing `(Link, useNavigate)`
+* `Component-based` architecture
+* `react-bootstrap (Row, Col, Button, Card, ListGroup)`
+* `Client-Server architecture`.
 - [ ] **Features:**  Products catalog, user authentication and authorization, shopping cart functionality, order processes, reviews, PayPal integration, and user and Admin functionalities, such as order history, creation, editing, and deletion of products, and real-time metrics (registered users, order count, total money orders).
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE-WEBSITE)
 - [ ] **Live Demo:** [Explore the live website](https://anastacia-mern-ecommerce-website.onrender.com/)
