@@ -21,8 +21,8 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 #### ✔  [React Notes](https://github.com/shanibider/React-Notes)
 #### ✔  [React Scores Table](https://react-scores.onrender.com/)
 #### ✔  [React Investment Calculator](https://react-investment-calculator-emnn.onrender.com/)
-#### ✔  [MyWishList E-commerce](https://wish-list-ecommerce.vercel.app/)
-#### ✔  [Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
+#### ✔  [React MyWishList E-commerce](https://wish-list-ecommerce.vercel.app/)
+#### ✔  [React Aesthetic Ecommerce](https://frontend-react-aesthetic-ecommerce.vercel.app/)
 
 ### Node.js Express:
 #### ✔  [Mailchimp API Email Signup](https://nodejs-express-mailchimp-api-signup.onrender.com/)
@@ -160,15 +160,23 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ### Project 12:  MyWishList E-commerce React Website -
 - [ ] **Description:** An e-commerce platform built using React.
+- [ ] **Features:** Product catalog, shopping cart, featuring advanced routing (Routes, Route), state management (useState), a component-based architecture.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Aesthetic-Ecommerce)
+- [ ] **Live Demo:** [Explore the live website](https://frontend-react-aesthetic-ecommerce.vercel.app/)
+- [ ] ![MyWishList E-commerce React Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c)
+<br>
+
+### Project 13:  ReactiveCommerce - Aesthetic Ecommerce Website -
+- [ ] **Description:** An e-commerce platform built using React.
 - [ ] **Features:** Product catalog, shopping cart.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
 - [ ] **Live Demo:** [Explore the live website](https://wish-list-ecommerce.vercel.app/)
-- [ ] ![MyWishList E-commerce React Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c)
+- [ ] ![1](https://github.com/shanibider/My-Portfolio/assets/72359805/4a4d91b6-b13a-4b89-b421-da446bff3fbc)
 <br>
 
 ---
 
-### Project 13: Mailchimp API Email Signup -
+### Project 14: Mailchimp API Email Signup -
 - [ ] **Description:** A Node.js application integrating with the Mailchimp API to handle email subscriptions.
 - [ ] **Features:** Subscription form, email validation, Mailchimp API integration.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Mailchimp-Signup)
@@ -177,7 +185,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/bca47ced-a538-4fd6-b512-d1ffaa18af5e">
 <br>
 
-### Project 14: API Node Weather Checker -
+### Project 15: API Node Weather Checker -
 - [ ] **Description:** A weather checking application developed using Node.js and Express, integrating with a public weather API.
 - [ ] **Features:** Location-based weather information, API integration, responsive design.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Weather-Checker-incl.-UI)
@@ -186,7 +194,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 <br>
 
 
-### Project 15:  API Secrets Generator -
+### Project 16:  API Secrets Generator -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills.
 - [ ] **GitHub Repository:** [Link]()
 - [ ] **Live Demo:** [Explore the live website](https://api-secrets-generator.onrender.com/)
@@ -194,7 +202,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 <br>
 
 
-### Project 18: Node.js Blog web Application -
+### Project 17: Node.js Blog web Application -
 - [ ] **Description:** A blogging platform that runs two servers synchronously, developed using Express, Node.js, and EJS templating.
 - [ ] **Features:** post creation/editing, deleting. Client-Server architecture.
 - [ ] **Features:** App overview, feature descriptions, and download links.
@@ -206,14 +214,14 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
 ---
 
-### Project 17: Portfolio Website -
+### Project 18: Portfolio Website -
 - [ ] **Description:** My personal portfolio website showcasing my projects and skills, using HTML, and CSS.
 - [ ] **Features:** Responsive design, project showcase, contact form.
 - [ ] **Live Demo:** [Explore the live website](https://shanibider.onrender.com/)
 - [ ] ![Portfolio Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/3d3ce080-c823-45e2-8815-d7094e8becb0)
 <br>
 
-### Project 18: Wallety App Preview Website -
+### Project 19: Wallety App Preview Website -
 - [ ] **Description:** A static preview website for the Wallety Android app, showcasing its features and functionalities.
 - [ ] **Features:** App overview, feature descriptions, and download links.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Wallety-App-Preview-Website)
