@@ -54,17 +54,18 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 
  
 ---
+ Full-stack E-commerce Clothing Website, developed using MERN (MongoDB, Express.js, React, and Node.js), RESTful API architecture, and advanced React-based architecture (Redux, Hooks, Routing, React-Bootstrap). Features include PayPal API, Firebase for user management, TablePlus and pgAdmin4 for database management, and Render for cloud hosting.
 
+It features user authentication and authorization, shopping cart functionality, order processing, reviews, PayPal integration, and admin functionalities.
 
 ## Websites Showcase 🎯
 
 ### Project 1: ANASTACIA MERN E-COMMERCE WEBSITE -
-- [ ] **Description:** An e-commerce platform built using `MERN stack (MongoDB, Express.js, React.js, Node.js), PayPal API, Firebase` for user management, `TablePlus, and pgAdmin4` for database management, and `render` for deployment,  with a focus on
-* `Redux State Management`
-* other React-based architecture, such as `Hooks (useState, useReducer, useEffect)`
-* advanced Routing `(Link, useNavigate)`
-* `Component-based` architecture
-* `react-bootstrap (Row, Col, Button, Card, ListGroup)`
+- [ ] **Description:** Full-stack e-commerce platform built using `MERN (MongoDB, Express.js, React, and Node.js), RESTful API architecture, and advanced React-based architecture (Redux, Hooks, Routing, React-Bootstrap). Features include PayPal API, Firebase for user management, TablePlus and pgAdmin4 for database management, and Render for cloud hosting.
+* Advanced React-based architecture, including `Hooks (useReducer, useContext, useState, useEffect)`, for global state management.
+* Advanced Routing `(Link, useNavigate)`.
+* `Component-based` architecture.
+* `react-bootstrap (Row, Col, Button, Card, ListGroup)`.
 * `Client-Server architecture`.
 - [ ] **Features:**  Products catalog, user authentication and authorization, shopping cart functionality, order processes, reviews, PayPal integration, and user and Admin functionalities, such as order history, creation, editing, and deletion of products, and real-time metrics (registered users, order count, total money orders).
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE-WEBSITE)
@@ -167,16 +168,16 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 ### Project 12:  MyWishList E-commerce React Website -
 - [ ] **Description:** An e-commerce platform built using React, with a focus on `React Context API`, and other React-based architecture, such as `Hooks, advanced Router (Link, useNavigate), and component-based architecture`.
 - [ ] **Features:** Product catalog, shopping cart, allowing users to update quantities and proceed to checkout, and contact Page. 
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Aesthetic-Ecommerce)
-- [ ] **Live Demo:** [Explore the live website](https://frontend-react-aesthetic-ecommerce.vercel.app/)
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/MyWishList-React-Ecommerce)
+- [ ] **Live Demo:** [Explore the live website](https://wish-list-ecommerce.vercel.app/)
 - [ ] ![MyWishList E-commerce React Website](https://github.com/shanibider/My-Web-Development-Portfolio/assets/72359805/93cb5c9f-db77-4d4c-88f6-6c373b3f0b6c)
 <br>
 
-### Project 13:  ReactiveCommerce - Aesthetic Ecommerce Website -
-- [ ] **Description:** An e-commerce platform built using React.
-- [ ] **Features:** Product catalog, shopping cart.
-- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/MyWishList-Ecommerce-React-Website)
-- [ ] **Live Demo:** [Explore the live website](https://wish-list-ecommerce.vercel.app/)
+### Project 13:  ReactiveCommerce - Aesthetic E-commerce Website -
+- [ ] **Description:** An e-commerce platform built using React, featuring advanced `routing, state management, and a component-based` architecture.
+- [ ] **Features:** Product catalog, shopping cart, allowing users to update quantities and proceed to checkout.
+- [ ] **GitHub Repository:** [Link](https://github.com/shanibider/React-Aesthetic-Ecommerce)
+- [ ] **Live Demo:** [Explore the live website](https://frontend-react-aesthetic-ecommerce.vercel.app/)
 - [ ] ![1](https://github.com/shanibider/My-Portfolio/assets/72359805/4a4d91b6-b13a-4b89-b421-da446bff3fbc)
 <br>
 
