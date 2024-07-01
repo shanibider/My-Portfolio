@@ -37,6 +37,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 <br>
 
 ### Static Website:
+#### ✔  [Business Agency Website](https://business-agency.onrender.com/)
 #### ✔  [My Portfolio](https://shanibider.onrender.com/)
 #### ✔  [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
 #### ✔  [Basic Bootstrap Website](https://shanibider.github.io/HTML-CSS-Fitness-Website/)
