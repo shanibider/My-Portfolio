@@ -36,10 +36,10 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 #### ✔  [Api Taco Recipes](https://api-taco-recipes.onrender.com/)
 <br>
 
-### Static Website:
+### Single Page Application Website:
 #### ✔  [Business Agency Website](https://business-agency.onrender.com/)
 #### ✔  [My Portfolio](https://shanibider.onrender.com/)
-#### ✔  [Wallety App Preview](https://shanibider.github.io/Wallety-App-Preview-Website/)
+#### ✔  [Wallety App Preview](https://wallety-app-preview-website.onrender.com/)
 #### ✔  [Basic Bootstrap Website](https://shanibider.github.io/HTML-CSS-Fitness-Website/)
 #### ✔  [HTML Only Online Resume](https://shanibider.github.io/Online-resume/) 
 #### ✔  [My Personal Website](https://shanibider.github.io/Frontend-My-site/) 
@@ -264,7 +264,7 @@ Welcome to my web development portfolio! Below is a showcase of websites I've de
 - [ ] **Description:** A static preview website for the Wallety Android app, showcasing its features and functionalities.
 - [ ] **Features:** App overview, feature descriptions, and download links.
 - [ ] **GitHub Repository:** [Link](https://github.com/shanibider/Wallety-App-Preview-Website)
-- [ ] **Live Demo:** [Explore the live website](https://shanibider.github.io/Wallety-App-Preview-Website/)
+- [ ] **Live Demo:** [Explore the live website](https://wallety-app-preview-website.onrender.com/)
 - [ ] <img align="center" src="https://github.com/shanibider/My-Portfolio/assets/72359805/b444f7d1-8db2-44e8-82c5-86b6e62fd6be">
 <br>
 
